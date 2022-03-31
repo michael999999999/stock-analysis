@@ -8,9 +8,13 @@
 
 - The written analysis has the following:
 
-Based on the information provided by Steve, it would appear that Daqo Corp (ticker: "DQ") had a very strong 2017, as did 10 of the other stocks named. 11 out of the 12 ended the year "in the green", some significantly so, with DQ topping the list at +199.4%! Other big winners include SEDG at +184.5%, ENPH at +129.5%, and FSLR at +101.3%.
+Based on the information provided by Steve, it would appear that Daqo Corp (ticker: "DQ") had a very strong 2017, as did 10 of the other stocks named. 11 out of the 12 options ended the year "in the green", some significantly so, with DQ topping the list at +199.4%! Other big winners include SEDG at +184.5%, ENPH at +129.5%, and FSLR at +101.3%.
 
-![2017 Stock Analysis](https://github.com/michael999999999/stock-analysis/blob/main/All_Stocks_Analysis_2017.png)
+![2017_Stock_Analysis](https://github.com/michael999999999/stock-analysis/blob/main/All_Stocks_Analysis_2017.png)
+
+Results would take a turn for the worse in 2018, however, with 10 of those same stocks actually ending the year in the red. DQ stood out again, this time for the wrong reason as the largest loser. DQ ended the year -62.6%, followed by JKS at -60.5% and SPWWR at -44.6%.
+
+![2018_Stock_Analysis](https://github.com/michael999999999/stock-analysis/blob/main/All_Stocks_Analysis_2018.png)
 
 - Using images and examples of your code, compare the stock performance between 2017 and 2018
 - execution times of the original script and the refactored script.
