@@ -18,21 +18,18 @@ In my unprofessional opinion, it would seem as though ENPH would be the better o
 
 Additionally, while the +199.4% for DQ in 2017 would seem promising, they were the least traded of the 12 stocks, returning a volume of 35,000,000. For comparison, the next lowest 2017 volume was HASI at 80,000,000, then VSLR at 109,487,900. Further, in 2018 they were the 3rd lowest in volume at 107,873,900, sandwiched between HASI at 104,340,600 and VSLR at 136,539,100. Being towards the bottom of volume in both years seems to demonstrate a disinterest in the stock, especially considering most of the other stock saw a rise in volume.
 
-- execution times of the original script and the refactored script.
-
-As for the Excel document itself, the macro running the analysis was able to be refactored in a way that significantly improves performance. The prior code relied on nested loops performing mathematical equations, while the refactored code made use of VBA arrays. While mathematical equations must be used either way, arrays can help the process by storing values on the fly where nested loops are slower and can be a resource hog. 
+## Results
+As for the Excel document itself, the macro running the analysis was able to be refactored in a way that significantly improves performance. The prior code relied on nested loops performing mathematical equations, whereas the refactored code made use of VBA arrays. While mathematical equations must be used either way, arrays can help the process by storing values on the fly where nested loops are slower and can be a resource hog.
 
 ![2017_Refactored_Code](https://github.com/michael999999999/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 ![2018_Refactored_Code](https://github.com/michael999999999/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
-## Results
-
-- What are the advantages or disadvantages of refactoring code?
-- How do these pros and cons apply to refactoring the original VBA script?
-- The analysis is well described with screenshots and code (4 pt).
+Using VBA's timer function, I was able to find that the original macro took .765625 seconds to populate 2017 stock results, and .78125 for 2018's results. After refactoring, 2017's results were returned in .15625 seconds while 2018's came back in a whopping .1484375! While these differences seem practically imperceptable, consider the improvement this would show on a much larger data set. The refactored code saw an amazing 80% reduction in processing time versus the original code!
 
 ## Summary
+
+
 
 - There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 - There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
