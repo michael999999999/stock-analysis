@@ -7,6 +7,11 @@
 ## Analysis 
 
 - The written analysis has the following:
+
+Based on the information provided by Steve, it would appear that Daqo Corp (ticker: "DQ") had a very strong 2017, as did 10 of the other stocks named. 11 out of the 12 ended the year "in the green", some significantly so, with DQ topping the list at +199.4%! Other big winners include SEDG at +184.5%, ENPH at +129.5%, and FSLR at +101.3%.
+
+[2017 Stock Analysis](https://github.com/michael999999999/stock-analysis/blob/main/VBA_Challenge_2017.png)
+
 - Using images and examples of your code, compare the stock performance between 2017 and 2018
 - execution times of the original script and the refactored script.
 - The purpose and background are well defined (2 pt).
