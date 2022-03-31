@@ -16,7 +16,7 @@ Results would take a turn for the worse in 2018, however, with 10 of those same 
 
 In my unprofessional opinion, it would seem as though ENPH would be the better option over DQ. ENPH showed growth in both years of data, +129.5% with the rest of the sector in 2017, and continuing that trend +81.9% in 2018. This shows strength as it was only one of two "green" stocks up in a year where that sector as a whole suffered. Of course, "past performance is not indicative of future success."
 
-Additionally, while the +199.4% for DQ in 2017 would seem promising, they were the least traded of the 12 stocks, returning a volume of 35,000,000. For comparison, the next lowest 2017 volume was HASI at 80,000,000, then VSLR at 109,487,900. Further, in 2018 they were the 3rd lowest in volume at 107,873,900, sandwiched between HASI at 104,340,600 and VSLR at 136,539,100. Being towards the bottom of volume in both years seems to demonstrate a disinterest in the stock, especially considering most of the other stock saw a rise in volume.
+Additionally, while the +199.4% for DQ in 2017 would seem promising, they were the least traded of the 12 stocks, returning a volume of only 35,796,200. For comparison, the next lowest 2017 volume was HASI at 80,949,300, then VSLR at 109,487,900. Further, in 2018 they were the 3rd lowest in volume at 107,873,900, sandwiched between HASI at 104,340,600 and VSLR at 136,539,100. Being towards the bottom of volume in both years seems to demonstrate a lack of interest in the stock, especially considering most other stocks saw a rise in volume.
 
 ## Results
 
