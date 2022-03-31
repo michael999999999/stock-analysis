@@ -20,7 +20,11 @@ Additionally, while the +199.4% for DQ in 2017 would seem promising, they were t
 
 - execution times of the original script and the refactored script.
 
-As for the Excel document itself, the macro running the analysis was able to be refactored in a way that significantly improves performance.
+As for the Excel document itself, the macro running the analysis was able to be refactored in a way that significantly improves performance. The prior code relied on nested loops performing mathematical equations, while the refactored code made use of VBA arrays. While mathematical equations must be used either way, arrays can help the process by storing values on the fly where nested loops are slower and can be a resource hog. 
+
+![2017_Refactored_Code](https://github.com/michael999999999/stock-analysis/blob/main/VBA_Challenge_2017.png)
+
+![2018_Refactored_Code](https://github.com/michael999999999/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 ## Results
 
